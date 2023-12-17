@@ -8,7 +8,7 @@ Hello! My name is Tomás Barros, and I'm a systems development student and aspir
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-barros1&layout=compact)
 
-## (PT/BR) TECNOLOGIAS / (EN) TECHNOLOGIES
+## TECNOLOGIAS / TECHNOLOGIES
 
 <div style="inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  style="max-width: 100%;">
@@ -21,4 +21,4 @@ Hello! My name is Tomás Barros, and I'm a systems development student and aspir
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
 </div>
 
-## (PT/BR) CONTATO / (EN) CONTACT: tomasabbarros3@gmail.com
+## CONTATO / CONTACT: tomasabbarros3@gmail.com
