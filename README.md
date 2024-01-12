@@ -22,5 +22,5 @@
 ---
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomas-barros1&show_icons=true&theme=dracula" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-barros1&layout=compact&theme=dracula">
 </div>
