@@ -18,7 +18,7 @@
 
 ## Contact
 - Email: <a href="tomasabbarros3@gmail.com">tomasabbarros3@gmail.com</a>
-- Linkedin:<a href="https://www.linkedin.com/in/tom%C3%A1s-barros/">https://www.linkedin.com/in/tom%C3%A1s-barros/</a>
+- Linkedin: <a href="https://www.linkedin.com/in/tom%C3%A1s-barros/">https://www.linkedin.com/in/tom%C3%A1s-barros/</a>
 
 ---
 <div>
