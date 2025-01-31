@@ -16,6 +16,7 @@ Olá! Eu sou Tomás Barros, um desenvolvedor Full Stack apaixonado por criar sol
 <div style="display: flex; flex-wrap: wrap; gap: 3px;">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" >
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img alt="Spring" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </div>
 
 ### Bancos de Dados
